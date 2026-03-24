@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Chanti Sakinala",
   "email": "sakinalachanti@gmail.com",
@@ -128,3 +129,135 @@
     { "school": "Blue Buds High School", "degree": "Matriculation", "percentage": "100%", "date": "Jun 2020 - Apr 2021", "location": "Suryapet, Telangana" }
   ]
 }
+=======
+{
+  "name": "Chanti Sakinala",
+  "email": "sakinalachanti@gmail.com",
+  "mobile": "+91-7396945386",
+  "location": "Punjab, India",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/chanti-sakinala",
+    "github": "https://github.com/Chanti19"
+  },
+  "aboutMe": "I am a Computer Science & Engineering student with a strong interest in software development, web technologies, and system-level programming. I am passionate about building efficient problem-solving applications, having worked on projects ranging from web-based dashboards to voice-controlled systems using Python.",
+  "skills": {
+    "languages": ["C++", "C", "Python", "JavaScript", "HTML", "CSS"],
+    "frameworks": [],
+    "tools": ["MySQL", "GitHub", "Visual Studio Code"]
+  },
+  "training": [
+    {
+      "title": "Basics of DSA",
+      "organization": "LPU",
+      "date": "July 2025",
+      "highlights": [
+        "Completed a hands-on summer training program gaining strong foundational knowledge in problem-solving and algorithms.",
+        "Explored core DSA modules including Arrays, Searching, Sorting, and Time Complexity Analysis.",
+        "Worked on hands-on coding implementations that strengthened logical thinking and structured problem-solving skills.",
+        "Crafted a complete front-end workflow for citizens and municipal staff, including real-time dashboard stats and priority-based bin classification."
+      ],
+      "certificateUrl": "/certificates/training_cert.pdf",
+      "image": "/certifications_images/ds.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Smart Waste Bin Collection",
+      "date": "Jul 2025 - Aug 2025",
+      "techStack": ["HTML", "CSS", "JavaScript", "DSA"],
+      "description": "Built a front-end workflow using HTML, CSS, JavaScript, and local storage. Developed a citizen-reporting module, implemented merge sort logic to rank waste bins by fill level, and designed a municipal dashboard for real-time tracking and prioritization.",
+      "githubUrl": "https://github.com/Chanti19",
+      "liveUrl": "https://municipal-waste-management-iota.vercel.app/",
+      "image": "/project_images/smart_waste_bin.png"
+    },
+    {
+      "title": "Voice Process Manager",
+      "date": "Mar 2025 - Apr 2025",
+      "techStack": ["Python"],
+      "description": "Created a Voice Process Manager in Python to manage system processes through voice commands. Integrated speech recognition, command parsing, and robust error-handling mechanisms. Optimized to work seamlessly on macOS with a future scope for Windows.",
+      "githubUrl": "https://github.com/Chanti19",
+      "liveUrl": "",
+      "image": "/project_images/voice_process_manger.jpg"
+    }
+  ],
+  "certificates": [
+    { 
+      "title": "Cloud Computing", 
+      "issuer": "NPTEL IIT Kharagpur", 
+      "date": "April 2025",
+      "image": "/certifications_images/Cloud_Computing.jpg",
+      "certificateUrl": ""
+    },
+    { 
+      "title": "Legacy Responsive Web Design", 
+      "issuer": "FreeCodeCamp", 
+      "date": "November 2023",
+      "image": "/certifications_images/fcc_web.png",
+      "certificateUrl": ""
+    },
+    { 
+      "title": "Complete Python for Absolute Beginners", 
+      "issuer": "Udemy", 
+      "date": "October 2023",
+      "image": "/certifications_images/python.jpg",
+      "certificateUrl": ""
+    },
+    { 
+      "title": "Learn HTML for Beginners", 
+      "issuer": "Udemy", 
+      "date": "October 2023",
+      "image": "/certifications_images/UDEMY_HTML.jpeg",
+      "certificateUrl": ""
+    },
+    { 
+      "title": "GEN AI NASSCOM", 
+      "issuer": "Skill Development Program", 
+      "date": "February 2026",
+      "image": "/certifications_images/AI_certificate.jpg",
+      "certificateUrl": ""
+    },
+    { 
+      "title": "Certificate of Participation", 
+      "issuer": "LPU Student Welfare Wing", 
+      "date": "2025",
+      "image": "/certifications_images/hackathon.jpg",
+      "certificateUrl": ""
+    }
+  ],
+  "achievements": [
+    { "title": "LeetCode 50 Days Badge 2026", "highlights": ["Consistently solved problems for 50 days."], "image": "/achievement_images/badge_50_days.png" },
+    { "title": "Problem Solving Badge", "highlights": ["Earned 2 Stars in Problem Solving on HackerRank."], "image": "/achievement_images/problem_solving.png", "scale": 1.5 },
+    { "title": "C++ Proficiency Badge", "highlights": ["Earned 3 Stars in C++ on HackerRank."], "image": "/achievement_images/cpp.png", "scale": 1.5 },
+    { "title": "Java Proficiency Badge", "highlights": ["Earned 2 Stars in Java on HackerRank."], "image": "/achievement_images/java.png", "scale": 1.5 },
+    { "title": "30 Days of Code Badge", "highlights": ["Completed the 30 Days of Code challenge on HackerRank."], "image": "/achievement_images/badge_30_days.png", "scale": 1.5 },
+    { "title": "C Language Proficiency Badge", "highlights": ["Earned 1 Star in C Language on HackerRank."], "image": "/achievement_images/c.png", "scale": 1.5 }
+  ],
+  "codingPlatforms": [
+    { 
+      "name": "LeetCode", 
+      "url": "https://leetcode.com/u/chanti_sakinala/", 
+      "details": [
+        { "label": "Global Rank", "value": "523,864" },
+        { "label": "Top", "value": "61.64%" },
+        { "label": "Solved", "value": "73 / 3878" },
+        { "label": "Max Streak", "value": "26 Days" }
+      ],
+      "strength": 75
+    },
+    { 
+      "name": "HackerRank", 
+      "url": "https://www.hackerrank.com/profile/chantisakinala56", 
+      "details": [
+        { "label": "Badges", "value": "Problem Solving, 30 Days of Code" },
+        { "label": "Proficiency", "value": "3 Stars (C++), 2 Stars (Java)" }
+      ],
+      "strength": 80
+    }
+  ],
+  "education": [
+    { "school": "Lovely Professional University", "degree": "Bachelor of Technology - Computer Science and Engineering", "cgpa": "6.87", "date": "Aug 2023 - Present", "location": "Punjab, India" },
+    { "school": "Telangana Model Junior College", "degree": "Intermediate", "percentage": "90.7%", "date": "Jun 2021 - Mar 2023", "location": "Nalgonda, Telangana" },
+    { "school": "Blue Buds High School", "degree": "Matriculation", "percentage": "100%", "date": "Jun 2020 - Apr 2021", "location": "Suryapet, Telangana" }
+  ]
+}
+>>>>>>> 2922de6 (Updated portfolio content and fixed images)
