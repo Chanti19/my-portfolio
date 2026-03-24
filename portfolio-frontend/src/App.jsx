@@ -27,7 +27,7 @@ function App() {
 
   useEffect(() => {
     setLoading(true);
-    axios.get('http://localhost:5000/api/cv')
+    axios.get(`${import.meta.env.VITE_API_URL || 'https://my-portfolio-2p21.onrender.com'}/api/cv`)
       .then(res => {
         setCvData(res.data);
         setError(null);
@@ -89,7 +89,7 @@ function App() {
               </div>
             ) : error ? (
               <div style={{ height: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', color: currentTheme.text, textAlign: 'center', padding: '0 20px' }}>
-                <h2 style={{ color: currentTheme.accent, marginBottom: '1rem' }}>SYSTEM OFFLINE</h2>
+                <h2 style={{ color: currentTheme.accent, marginBotton: '1rem' }}>SYSTEM OFFLINE</h2>
                 <p style={{ opacity: 0.7, maxWidth: '500px' }}>The portfolio's intelligence core (backend) is currently unreachable. Some sections may be unavailable.</p>
                 <button 
                   onClick={() => window.location.reload()} 

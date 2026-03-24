@@ -10,7 +10,7 @@ const Contact = ({ theme, isDarkMode, data }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setStatus('Sending...');
-    axios.post('http://localhost:5000/api/contact', formData)
+    axios.post(`${import.meta.env.VITE_API_URL || 'https://my-portfolio-2p21.onrender.com'}/api/contact`, formData)
       .then(() => {
         setStatus('Message Sent!');
         setFormData({ name: '', email: '', message: '' });
