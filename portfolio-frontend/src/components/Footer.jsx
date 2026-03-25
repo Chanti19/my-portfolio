@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Github, Linkedin, Mail, Phone, ExternalLink } from 'lucide-react';
@@ -314,4 +314,4 @@ const Footer = ({ theme, isDarkMode, data }) => {
 };
 
 export default Footer;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
