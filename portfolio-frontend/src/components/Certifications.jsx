@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -256,4 +256,4 @@ const Certifications = ({ theme, certificates }) => {
 };
 
 export default Certifications;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
