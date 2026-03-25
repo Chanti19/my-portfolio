@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import profileLight from '../assets/mainprofile.jpg';
@@ -274,4 +274,4 @@ const About = ({ theme, data, isDarkMode }) => {
 };
 
 export default About;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
