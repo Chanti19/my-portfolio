@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React, { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
@@ -156,4 +156,4 @@ const IntroAnimation = ({ onComplete, isDarkMode, theme }) => {
 };
 
 export default IntroAnimation;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
