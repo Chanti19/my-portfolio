@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Trophy } from 'lucide-react';
@@ -156,4 +156,4 @@ const Achievements = ({ theme, achievements }) => {
 };
 
 export default Achievements;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
