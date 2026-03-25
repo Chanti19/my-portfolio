@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Sun, Moon, Github, Linkedin, Download } from 'lucide-react';
@@ -246,4 +246,4 @@ const Navbar = ({ theme, toggleTheme, isDarkMode, data }) => {
 };
 
 export default Navbar;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
