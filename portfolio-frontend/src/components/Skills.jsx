@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -196,4 +196,4 @@ const Skills = ({ theme, skills, isDarkMode }) => {
 };
 
 export default Skills;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
