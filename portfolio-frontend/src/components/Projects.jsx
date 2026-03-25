@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 import { Github, ExternalLink, ArrowRight, Zap, Terminal } from 'lucide-react';
@@ -430,4 +429,4 @@ const Projects = ({ theme, projects, isDarkMode }) => {
 };
 
 export default Projects;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
