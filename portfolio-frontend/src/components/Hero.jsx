@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import mainProfile from '../assets/mainprofile.jpg';
@@ -170,4 +170,4 @@ const Hero = ({ theme, name, isDarkMode }) => {
 };
 
 export default Hero;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
