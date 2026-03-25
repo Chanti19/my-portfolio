@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -292,4 +292,4 @@ const Training = ({ theme, data }) => {
 };
 
 export default Training;
->>>>>>> 2922de6 (Updated portfolio content and fixed images)
+
